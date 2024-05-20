@@ -26,10 +26,10 @@ coverage
 .nyc_output 
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)   
-.grunt  day22
+.grunt  
 
 # Bower dependency directory (https://bower.io/)
-bower_components
+bower_components   day23
 
 # node-waf configuration
 .lock-wscript
