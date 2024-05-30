@@ -10,7 +10,7 @@ lerna-debug.log*    asas
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json   wewewe
 
 # Runtime data  xzx 56565
-pids  
+pids  ww
 *.pid  
 *.seed  cdf
 *.pid.lock  
