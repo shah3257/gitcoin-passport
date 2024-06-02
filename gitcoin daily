@@ -7,7 +7,7 @@ yarn-error.log*     4343
 lerna-debug.log*    asas
 233232
 # Diagnostic reports (https://nodejs.org/api/report.html)   
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json   wewewe
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json   wewewe 2121
 
 # Runtime data  xzx 5656523232
 pids  ww
