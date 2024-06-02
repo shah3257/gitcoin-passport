@@ -2,7 +2,7 @@
 logs     
 *.log  
 npm-debug.log*  
-yarn-debug.log*   
+yarn-debug.log*   232324
 yarn-error.log*     4343
 lerna-debug.log*    asas
 233232
