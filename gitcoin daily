@@ -47,7 +47,7 @@ typings/
 # TypeScript cache2121
 *.tsbuildinfo
 
-# Optional npm cache directory
+# Optional npm cache directory1212
 .npm
 
 # Optional eslint cache
