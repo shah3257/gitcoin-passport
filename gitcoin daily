@@ -35,7 +35,7 @@ bower_components  day24sasa
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)www
-build/Release
+build/Release546
 
 # Dependency directories221
 node_modules/21212
